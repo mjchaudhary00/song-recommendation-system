@@ -212,6 +212,4 @@ python -m uvicorn app:app --host 0.0.0.0 --port 10000
 
 This project is intended for **educational and demonstration purposes**.
 
-
-
-Say the word.
+Say the wo
